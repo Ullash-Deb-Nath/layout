@@ -49,7 +49,7 @@
 
                                 <div class="form-group">
                                     <input type="text" class="form-control form-control-user" name="roll" id="exampleInputId"
-                                        placeholder="Emter Your Student ID (Full ID)">
+                                        placeholder="Enter Your Student ID (Full ID)">
                                 </div>
 
 
